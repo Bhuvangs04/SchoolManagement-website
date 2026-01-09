@@ -1,3 +1,11 @@
+![Status](https://img.shields.io/badge/status-in%20development-blue)
+![Release](https://img.shields.io/badge/release-pre--release-orange)
+![Architecture](https://img.shields.io/badge/architecture-microservices-success)
+![Messaging](https://img.shields.io/badge/event--driven-RabbitMQ-purple)
+![License](https://img.shields.io/badge/license-all%20rights%20reserved-red)
+
+
+
 # School Management System 🚀
 
 A modern, scalable **School Management System** designed for educational institutions, built using a **microservices architecture** with a strong focus on performance, security, and long-term reliability.
